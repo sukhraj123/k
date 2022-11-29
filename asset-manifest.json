@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18bc0d42.css",
+    "main.js": "/static/js/main.5f117232.js",
+    "static/media/max-lissenden-zXzcUJYs7PY-unsplash.jpg": "/static/media/max-lissenden-zXzcUJYs7PY-unsplash.9a2c38a759b4e7d6edab.jpg",
+    "index.html": "/index.html",
+    "main.18bc0d42.css.map": "/static/css/main.18bc0d42.css.map",
+    "main.5f117232.js.map": "/static/js/main.5f117232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18bc0d42.css",
+    "static/js/main.5f117232.js"
+  ]
+}
